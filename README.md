@@ -1,4 +1,4 @@
-# SimpleRA
+# Mini-Database
 
 ## Compilation Instructions
 
@@ -12,7 +12,7 @@ cd SimpleRA
 ```
 cd src
 ```
-To compile
+To compile 
 ```
 make clean
 make
@@ -27,7 +27,9 @@ Post compilation, an executable names ```server``` will be created in the ```src
 
 ## Download Repo or clone it
 
-git clone 
+git clone https://github.com/rewrihitesh/Mini-Database.git
+
+## Note: Documentation are added namely Phase1, Phase2
 
 
 ## Git tutorials
