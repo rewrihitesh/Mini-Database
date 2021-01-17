@@ -37,3 +37,10 @@ git clone https://github.com/rewrihitesh/Mini-Database.git
 - [Handling git merge conflicts](https://youtu.be/JtIX3HJKwfo)
 - [What is git stash?](https://youtu.be/KLEDKgMmbBI)
 - [The best way is documentation itself](https://docs.github.com/en)
+
+## How this is made
+- whole application is made in three parts.
+-phase0 (in this phase simple set of commands implemented like rename, select, project)
+-phase1 (in this phase indexing, sorting and above commnds are optimzed)
+-phase2 (this is last phase in which new set of commands are added and support for aggregate functions are added)
+## NOTE respective phases pdf details are there in repo itself, read them first before proceeding  
